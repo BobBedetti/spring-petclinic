@@ -101,7 +101,7 @@ There is a `petclinic.css` in `src/main/resources/static/resources/css`. It was 
 
 The following items should be installed in your system:
 
-- Java 17 or newer (full JDK, not a JRE)
+- Java 21 or newer (full JDK, not a JRE)
 - [Git command line tool](https://help.github.com/articles/set-up-git)
 - Your preferred IDE
   - Eclipse with the m2e plugin. Note: when m2e is available, there is a m2 icon in `Help -> About` dialog. If m2e is
